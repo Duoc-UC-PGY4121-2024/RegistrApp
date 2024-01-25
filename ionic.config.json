@@ -1,0 +1,7 @@
+{
+  "name": "P2jd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
